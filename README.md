@@ -4,19 +4,18 @@ To ensure the correct implementation and execution of the program, please follow
 
 2) If you don't have the "pip" command installed type "python -m pip install -U pip" to download it.
 
-3) Download the OpenCV library by typing "pip install opencv-python" to download the latest OpenCV version. Also install "opencv-contrib-python" by typing "pip install opencv-contrib-python"
-   because it fixes multiple errors caused by the versions of the opencv.
+3) Install the OpenCV library by executing the command "pip install opencv-python" to obtain the most recent version. Additionally, install "opencv-contrib-python" by typing "pip install opencv-contrib-python" to address 	any potential errors caused by version incompatibilities.
 
 4) From this website: https://opencv.org/releases/page/6/ download the opencv(3.2.0) and extract all the content from the file. Find the following file "lbpcascade_frontalface.xml"and copy-paste them
-	to the file called "opencv-files" which is located at the Desktop.
+	to the file called "opencv-files" which is located at the Desktop( ***It's necessary to have both the latest and the 3.2.0 versions of the OpenCV ).
 
 5) Install the "numpy" library by typing in the command prompt "pip install numpy".
 
-6) We used VSCode to write and run our code. To successully run the code you need to download the following extensions:
-   a)Python Image Preview.
-   b)Live Share (That's optional. You just need it to make your life easier by writing code together with a colleague).
+6) We recommend using VSCode as the code editor and executing the code within it. Install the following extensions in VSCode for enhanced functionality:
+	a) Python Image Preview.
+	b) Live Share (Optional, but helpful for collaborative coding).
 
-***It's necessary to have both the latest and the 3.2.0 versions of the OpenCV.
+
 
 7) We converted our code into an executable file with the following steps:
    a) open command prompt typing "cmd" at the search bar.
