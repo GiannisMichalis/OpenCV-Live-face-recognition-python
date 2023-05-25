@@ -35,7 +35,6 @@ Sincerely,
 - SOKOS BASILEIOS
 - KOLOVOS STELIOS
 
-Department of Electrical and Computer Engineering,
-
+Department of Electrical and Computer Engineering
 University of Patras
 
