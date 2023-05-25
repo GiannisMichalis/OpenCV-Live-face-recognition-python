@@ -32,6 +32,7 @@ Sincerely,
 - SIOROS STRATIS
 - SOKOS BASILEIOS
 
+
 Department of Electrical and Computer Engineering          
 
 University of Patras
