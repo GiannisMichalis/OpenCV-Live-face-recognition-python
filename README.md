@@ -1,5 +1,3 @@
-# OpenCV-Live-face-recognition-python
-
 Here you can follow the steps in order to correctly code and execute the program:
 
 1) Open Command Prompt by typing "cmd" at the search bar.
@@ -38,4 +36,3 @@ Sincerely,
 
 Department of Electrical and Computer Engineering
 University of Patras
-
