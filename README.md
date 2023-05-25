@@ -25,9 +25,11 @@ To ensure the correct implementation and execution of the program, please follow
 The "training-data" directory should consist of individual files named s1, s2, s3, and so on, each containing meticulously captured photographs of the individuals whose faces the program aims to recognize. These images serve as the foundation for training the program's facial recognition capabilities, utilizing the powerful OpenCV library.
 
 Each file within this directory should exclusively feature high-quality, clear, and properly aligned photographs of the individuals' faces. These images serve as invaluable training material for the program, enabling it to acquire the necessary knowledge and proficiency to accurately identify the specified individuals in subsequent encounters.
+
+We are deeply grateful to Mr. Ramiz Raja for providing a comprehensive and well-documented implementation of face recognition using OpenCV. The core structure and inspiration for our project are derived from his invaluable work, which can be found at the following GitHub repository: https://github.com/informramiz/opencv-face-recognition-python.
    
   
-We would like to express our heartfelt thanks to Professor KOURETAS IOANNIS, our esteemed professor of Electronics and Computers.
+We would like to express our heartfelt thanks to Professor KOURETAS IOANNIS, our esteemed professor of Electronics and Computers for his continuous support and guidance throughout the development of this project.
 
 Sincerely,
 
