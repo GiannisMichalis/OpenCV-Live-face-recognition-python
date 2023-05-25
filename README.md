@@ -18,7 +18,7 @@ Here you can follow the steps in order to correctly code and execute the program
 
 ***It's necessary to have both the latest and the 3.2.0 versions of the OpenCV.
 
-7) We converted our code into an application with the following steps:
+7) We converted our code into an executable file with the following steps:
    a) open command prompt typing "cmd" at the search bar.
    b) type: "pyinstaller --onefile "nameofthefile".py
    
