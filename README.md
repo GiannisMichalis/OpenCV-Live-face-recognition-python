@@ -31,8 +31,6 @@ Sincerely,
 - GEORGIOU XRISTINA
 - SIOROS STRATIS
 - SOKOS BASILEIOS
-- KOLOVOS STELIOS
-
 
 Department of Electrical and Computer Engineering          
 
