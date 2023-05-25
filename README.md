@@ -1,4 +1,4 @@
-Here you can follow the steps in order to correctly code and execute the program:
+To ensure the correct implementation and execution of the program, please follow the step-by-step guide provided below:
 
 1) Open Command Prompt by typing "cmd" at the search bar.
 
