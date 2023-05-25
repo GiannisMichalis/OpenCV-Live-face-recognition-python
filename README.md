@@ -17,9 +17,9 @@ To ensure the correct implementation and execution of the program, please follow
 
 
 
-7) We converted our code into an executable file with the following steps:
-   a) open command prompt typing "cmd" at the search bar.
-   b) type: "pyinstaller --onefile "nameofthefile".py
+7) In order to create an executable file from the code, follow these steps:
+	a) Open the Command Prompt by typing "cmd" in the search bar.
+	b) Enter the command: "pyinstaller --onefile nameofthefile.py"
    
    
 The "training-data" directory should consist of individual files named s1, s2, s3, and so on, each containing meticulously captured photographs of the individuals whose faces the program aims to recognize. These images serve as the foundation for training the program's facial recognition capabilities, utilizing the powerful OpenCV library.
