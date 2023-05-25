@@ -22,6 +22,11 @@ Here you can follow the steps in order to correctly code and execute the program
    a) open command prompt typing "cmd" at the search bar.
    b) type: "pyinstaller --onefile "nameofthefile".py
    
+   
+The "training-data" directory should consist of individual files named s1, s2, s3, and so on, each containing meticulously captured photographs of the individuals whose faces the program aims to recognize. These images serve as the foundation for training the program's facial recognition capabilities, utilizing the powerful OpenCV library.
+
+When contributing to the GitHub repository, it is essential to ensure that the training-data directory encompasses the aforementioned structure. Each file within this directory should exclusively feature high-quality, clear, and properly aligned photographs of the individuals' faces. These images serve as invaluable training material for the program, enabling it to acquire the necessary knowledge and proficiency to accurately identify the specified individuals in subsequent encounters.
+   
   
 We would like to express our heartfelt thanks to Professor KOURETAS IOANNIS, our esteemed professor of Electronics and Computers.
 
